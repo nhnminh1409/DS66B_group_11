@@ -6,7 +6,9 @@ seaborn
 scipy
 joblib
 jupyter
-imbalanced-learn   # needed by Yen for SMOTE
-shap               # needed by NMinh for SHAP
+tqdm
+imbalanced-learn   # SMOTE, SMOTENC, RandomUnderSampler, SMOTEENN
+shap               # Phân tích độ quan trọng của đặc trưng (XAI)
 xgboost
 lightgbm
+catboost
