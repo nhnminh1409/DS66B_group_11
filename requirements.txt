@@ -10,5 +10,3 @@ tqdm
 imbalanced-learn   # SMOTE, SMOTENC, RandomUnderSampler, SMOTEENN
 shap               # Phân tích độ quan trọng của đặc trưng (XAI)
 xgboost
-lightgbm
-catboost
