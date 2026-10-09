@@ -2,7 +2,11 @@ scikit-learn>=1.2
 pandas>=1.5
 numpy
 matplotlib
+seaborn
+scipy
 joblib
 jupyter
 imbalanced-learn   # needed by Yen for SMOTE
 shap               # needed by NMinh for SHAP
+xgboost
+lightgbm
